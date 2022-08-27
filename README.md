@@ -1,4 +1,4 @@
-# Reviews
+# Reviews Component
 
 ### link: https://reviews-react-harsh.netlify.app/
 
